@@ -1,0 +1,368 @@
+{
+    "fitbit_health_data": {
+        "data": "Fitbit Health Data",
+        "children": [
+            {
+                "data": "user: {'age': 25, 'ambassador': False, 'avatar': 'https://static0.fitbit.com/images/profile/defaultProfile_100.png', 'avatar150': 'https://static0.fitbit.com/images/profile/defaultProfile_150.png', 'avatar640': 'https://static0.fitbit.com/images/profile/defaultProfile_640.png', 'averageDailySteps': 0, 'challengesBeta': True, 'clockTimeDisplayFormat': '12hour', 'corporate': False, 'corporateAdmin': False, 'dateOfBirth': '1997-04-20', 'displayName': 'Vardh J.', 'displayNameSetting': 'name', 'distanceUnit': 'en_US', 'encodedId': 'BHR487', 'features': {'exerciseGoal': True}, 'firstName': 'Vardh', 'foodsLocale': 'en_US', 'fullName': 'Vardh Jain', 'gender': 'MALE', 'glucoseUnit': 'en_US', 'height': 180.3, 'heightUnit': 'en_US', 'isBugReportEnabled': False, 'isChild': False, 'isCoach': False, 'languageLocale': 'en_US', 'lastName': 'Jain', 'legalTermsAcceptRequired': False, 'locale': 'en_US', 'memberSince': '2023-03-29', 'mfaEnabled': False, 'offsetFromUTCMillis': -14400000, 'sdkDeveloper': False, 'sleepTracking': 'Normal', 'startDayOfWeek': 'SUNDAY', 'strideLengthRunning': 126.4, 'strideLengthRunningType': 'default', 'strideLengthWalking': 74.8, 'strideLengthWalkingType': 'default', 'swimUnit': 'en_US', 'timezone': 'America/Detroit', 'topBadges': [], 'visibleUser': True, 'waterUnit': 'en_US', 'waterUnitName': 'fl oz', 'weight': 65.0, 'weightUnit': 'METRIC'}",
+                "children": []
+            }
+        ]
+    },
+    "stroke_mortality_data": {
+        "data": "Stroke Mortality Data",
+        "children": [
+            {
+                "data": "Illinois: 76.7",
+                "children": []
+            },
+            {
+                "data": "Indiana: 78.3",
+                "children": []
+            },
+            {
+                "data": "Alcona County: 83.9",
+                "children": []
+            },
+            {
+                "data": "Alger County: 65.9",
+                "children": []
+            },
+            {
+                "data": "Allegan County: 66.6",
+                "children": []
+            },
+            {
+                "data": "Alpena County: 81.4",
+                "children": []
+            },
+            {
+                "data": "Antrim County: 93.9",
+                "children": []
+            },
+            {
+                "data": "Arenac County: 73.8",
+                "children": []
+            },
+            {
+                "data": "Baraga County: 67",
+                "children": []
+            },
+            {
+                "data": "Barry County: 76.1",
+                "children": []
+            },
+            {
+                "data": "Bay County: 70.2",
+                "children": []
+            },
+            {
+                "data": "Benzie County: 87.9",
+                "children": []
+            },
+            {
+                "data": "Berrien County: 101.9",
+                "children": []
+            },
+            {
+                "data": "Branch County: 81.2",
+                "children": []
+            },
+            {
+                "data": "Calhoun County: 93.6",
+                "children": []
+            },
+            {
+                "data": "Cass County: 86.8",
+                "children": []
+            },
+            {
+                "data": "Charlevoix County: 89.5",
+                "children": []
+            },
+            {
+                "data": "Cheboygan County: 85.7",
+                "children": []
+            },
+            {
+                "data": "Chippewa County: 73.2",
+                "children": []
+            },
+            {
+                "data": "Clare County: 105.7",
+                "children": []
+            },
+            {
+                "data": "Clinton County: 57",
+                "children": []
+            },
+            {
+                "data": "Crawford County: 70.8",
+                "children": []
+            },
+            {
+                "data": "Delta County: 62.2",
+                "children": []
+            },
+            {
+                "data": "Dickinson County: 84",
+                "children": []
+            },
+            {
+                "data": "Eaton County: 74.7",
+                "children": []
+            },
+            {
+                "data": "Emmet County: 84.7",
+                "children": []
+            },
+            {
+                "data": "Genesee County: 101.2",
+                "children": []
+            },
+            {
+                "data": "Gladwin County: 91.5",
+                "children": []
+            },
+            {
+                "data": "Gogebic County: 76.1",
+                "children": []
+            },
+            {
+                "data": "Grand Traverse County: 99.5",
+                "children": []
+            },
+            {
+                "data": "Gratiot County: 88.7",
+                "children": []
+            },
+            {
+                "data": "Hillsdale County: 74.1",
+                "children": []
+            },
+            {
+                "data": "Houghton County: 79.8",
+                "children": []
+            },
+            {
+                "data": "Huron County: 68.7",
+                "children": []
+            },
+            {
+                "data": "Ingham County: 72.1",
+                "children": []
+            },
+            {
+                "data": "Ionia County: 76.2",
+                "children": []
+            },
+            {
+                "data": "Iosco County: 79.9",
+                "children": []
+            },
+            {
+                "data": "Iron County: 82.6",
+                "children": []
+            },
+            {
+                "data": "Isabella County: 93.6",
+                "children": []
+            },
+            {
+                "data": "Jackson County: 74.3",
+                "children": []
+            },
+            {
+                "data": "Kalamazoo County: 66.7",
+                "children": []
+            },
+            {
+                "data": "Kalkaska County: 97.6",
+                "children": []
+            },
+            {
+                "data": "Kent County: 63.9",
+                "children": []
+            },
+            {
+                "data": "Keweenaw County: 78.7",
+                "children": []
+            },
+            {
+                "data": "Lake County: 95",
+                "children": []
+            },
+            {
+                "data": "Lapeer County: 94.4",
+                "children": []
+            },
+            {
+                "data": "Leelanau County: 85.6",
+                "children": []
+            },
+            {
+                "data": "Lenawee County: 73.4",
+                "children": []
+            },
+            {
+                "data": "Livingston County: 70.5",
+                "children": []
+            },
+            {
+                "data": "Luce County: 70.4",
+                "children": []
+            },
+            {
+                "data": "Mackinac County: 74",
+                "children": []
+            },
+            {
+                "data": "Macomb County: 75",
+                "children": []
+            },
+            {
+                "data": "Manistee County: 90.5",
+                "children": []
+            },
+            {
+                "data": "Marquette County: 64.5",
+                "children": []
+            },
+            {
+                "data": "Mason County: 83.6",
+                "children": []
+            },
+            {
+                "data": "Mecosta County: 95.5",
+                "children": []
+            },
+            {
+                "data": "Menominee County: 59.2",
+                "children": []
+            },
+            {
+                "data": "Midland County: 82.1",
+                "children": []
+            },
+            {
+                "data": "Missaukee County: 128.7",
+                "children": []
+            },
+            {
+                "data": "Monroe County: 75.9",
+                "children": []
+            },
+            {
+                "data": "Montcalm County: 81.2",
+                "children": []
+            },
+            {
+                "data": "Montmorency County: 86.5",
+                "children": []
+            },
+            {
+                "data": "Muskegon County: 78.9",
+                "children": []
+            },
+            {
+                "data": "Newaygo County: 79.5",
+                "children": []
+            },
+            {
+                "data": "Oakland County: 86.6",
+                "children": []
+            },
+            {
+                "data": "Oceana County: 83.7",
+                "children": []
+            },
+            {
+                "data": "Ogemaw County: 78.5",
+                "children": []
+            },
+            {
+                "data": "Ontonagon County: 79.8",
+                "children": []
+            },
+            {
+                "data": "Osceola County: 105.4",
+                "children": []
+            },
+            {
+                "data": "Oscoda County: 82.6",
+                "children": []
+            },
+            {
+                "data": "Otsego County: 88.4",
+                "children": []
+            },
+            {
+                "data": "Ottawa County: 71.3",
+                "children": []
+            },
+            {
+                "data": "Presque Isle County: 78.5",
+                "children": []
+            },
+            {
+                "data": "Roscommon County: 73.1",
+                "children": []
+            },
+            {
+                "data": "Saginaw County: 74.6",
+                "children": []
+            },
+            {
+                "data": "St. Clair County: 75.2",
+                "children": []
+            },
+            {
+                "data": "St. Joseph County: 89.6",
+                "children": []
+            },
+            {
+                "data": "Sanilac County: 72.3",
+                "children": []
+            },
+            {
+                "data": "Schoolcraft County: 67.7",
+                "children": []
+            },
+            {
+                "data": "Shiawassee County: 116",
+                "children": []
+            },
+            {
+                "data": "Tuscola County: 76.1",
+                "children": []
+            },
+            {
+                "data": "Van Buren County: 77",
+                "children": []
+            },
+            {
+                "data": "Washtenaw County: 78.7",
+                "children": []
+            },
+            {
+                "data": "Wayne County: 81.5",
+                "children": []
+            },
+            {
+                "data": "Wexford County: 114.4",
+                "children": []
+            },
+            {
+                "data": "Michigan: 80.1",
+                "children": []
+            },
+            {
+                "data": "Missouri: 75.4",
+                "children": []
+            },
+            {
+                "data": "Ohio: 84.2",
+                "children": []
+            }
+        ]
+    }
+}
