@@ -13,12 +13,13 @@ This project was implemented as a part of the SI 507 Intermediate Python Program
 - plotly (version 4.14.3 or higher)
 - csv (standard library)
 - json (standard library)
-- requests (standard library)
+- requests
 
 To install the required package, run:
 
 ```
 pip install plotly
+pip install requests
 ```
 
 ## Environment
@@ -28,5 +29,7 @@ This project was implemented in Visual Studio Code and can be run by typing the 
 On running the .py file, the user will be prompted to enter his Michigan County location. The user can input this through the Visual Studio Code terminal. This will then call the Fitbit API to retreive the user's Fitbit data. Then, the user will be shown his risk score and stroke mortality rate and asked to enter his county location. The user is also given an option to compare these mortality rates to the other Midwestern state rates.
 
 ## Data Visualization/Data Structure
-If the user decides to exits FitStroke at any time, he will be shown a bar plot comparing the two/three stroke mortality rates. At the back end, a tree data structure has been first generated based on user-inputed values, stored in a .json format, and then converted to a bar plot using plotly.
+If the user decides to exits FitStroke at any time, he will be shown a bar plot comparing the two/three stroke mortality rates. The data will be organized into a combination of two trees - one for the user's Fitbit health data and another for the regional stroke mortality data. 
+Data assembly plan: The user's health data will be fetched from the Fitbit API and stored in a dictionary. The stroke mortality data will be imported from the CSV file and stored in another dictionary. The two dictionaries will be combined to create a comprehensive tree structure 
+containing both user health data and regional stroke mortality data.
 
